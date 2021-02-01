@@ -1,13 +1,19 @@
+.main2{
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+}
+.images div div{
+    width:545px;
+    margin:0%;
+    padding:20px;
+}
+.images div {
+    display:flex;
+    flex-wrap: wrap;
+}
 
-
-
-
-
-.images div img{
-    height: 427px;
-    width: 670px;
-    left: -111px;
-    top: 173px;
-    border-radius: 8px;
-
+.images div div img {
+    width:545px;
+    height:545px;
 }
