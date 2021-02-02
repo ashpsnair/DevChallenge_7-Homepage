@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
+.main{
+    width:1440px;
+    margin: auto;
+}
+
+
 nav{
     width: 1440px;
     margin: auto;
@@ -9,8 +15,8 @@ nav{
 }
 
 nav p{
-    float: left;
- 
+float: left;
+margin-left: 30px; 
 height: 53px;
 font-weight: 800;
 font-size: 36px;
