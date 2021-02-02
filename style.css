@@ -5,6 +5,7 @@
 .main{
     width:1440px;
     margin: auto;
+    transition: all 0.5s;
 }
 
 
@@ -474,7 +475,9 @@ color: #FFFFFF;
     font-size: 18px;
     line-height:36px;
     font-style: normal;
-    font-weight: 300;}
+    font-weight: 300;
+    color: #F2F2F2;
+}
    
 
 .main5 div div:nth-child(2){
@@ -496,6 +499,7 @@ font-weight: 800;
 font-size: 36px;
 line-height: 53px;
 margin: 0%;
+color: #F2F2F2;
 }
 
 .main5 div div:nth-child(2) div:nth-child(2){
@@ -564,7 +568,7 @@ margin: 0%;
 
 
 .main{
-    width: 300px;
+    width:360px;
     margin: auto;
   
     }
@@ -802,7 +806,7 @@ color: #333333;
 }
 
 .main5 {
- width: 377px;
+ width: 380px;
 height: 693px;
 }
 
@@ -828,17 +832,17 @@ height: 693px;
       
 }
 
-
 .main5 div div:nth-child(3){
-    width: 380px;
+    display:flex;
+    width:300px;
     height:200px;
-    margin: 0%;
-    margin-right: 10%;
-    margin-top:60px;
-   margin-left: 40px;
+    margin:0%;
+    padding-left: 30px;
+    padding-top: 30px;
     
-    
+  
 }
+
 
 .main5 div div input{
     width: 270px;
@@ -850,8 +854,7 @@ margin: 0%;
 }
 
 .main5 div div button{
-    position: relative;
-    left:-90px;
+    left: -80px;
     width: 71px;
     height: 39px;
     font-size: 14px;
