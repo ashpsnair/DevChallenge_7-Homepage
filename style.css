@@ -564,16 +564,16 @@ margin: 0%;
 
 
 .main{
-    width: 80%;
+    width: 600px;
     margin: auto;
   
     }
 nav {
-    width: 200px;
+    width: 350px;
 }
 nav p{
     font-size: 24px;
-    
+    margin-left:0px;
 }
 nav ul{
     display: none;
